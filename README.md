@@ -16,5 +16,7 @@ Projekt badawczy stanowiący analizę statystyczną przypadków hospitalizacji z
 * `/assets` - Grafiki i pliki projektowe `.pbx`.
 * `/docs` - Pełna dokumentacja projektu w formacie `.txt`.
 
+* ![Podgląd raportu Power BI](./assets/podglad.png)
+
 ##  Źródło danych
 https://dane.gov.pl/pl/dataset/3819,swiadczenia-z-rozpoznaniem-odmrozenia-i-hipotermii
