@@ -11,7 +11,7 @@ Projekt badawczy stanowiący analizę statystyczną przypadków hospitalizacji z
 ## Technologie i narzędzia
 * Power BI: Wizualizacja danych, modelowanie DAX, Power Query.
 * PBX: Plik projektowy (wyeksportowany podgląd znajduje się w `./assets`).
-* 
+
 ## Struktura repozytorium
 * `/assets` - Grafiki i pliki projektowe `.pbx`.
 * `/docs` - Pełna dokumentacja projektu w formacie `.txt`.
