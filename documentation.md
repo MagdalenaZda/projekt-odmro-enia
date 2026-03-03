@@ -1,4 +1,4 @@
-# Technical Documentation: Frostbite & Hypothermia Analysis (2018–2025)
+# Technical Documentation: Frostbite & Hypothermia Analysis 
 
 ## 1. Key Insights
 
