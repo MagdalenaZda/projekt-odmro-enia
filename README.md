@@ -10,7 +10,19 @@ This project focuses on the statistical analysis of frostbite cases in Poland. T
 
 ## The Process
 1.**Import data**
+Imported raw clinical datasets in CSV format directly into Power BI.
 2.**Cleaning data**
+In Power Query removed duplicates and to maintain calculation continuity, values marked as "<5" were replaced with a constant numerical value of 2 by Replace Values. This approach enabled mathematical operations while maintaining an acceptable margin of statistical error. 
+3.**Visualization**
+*Implemented "Top N" filters to isolate the 3 most frequent medical conditions, reducing visual clutter and focusing on high-impact diagnoses.
+
+*Created dynamic integrated slicers for Year, Gender, and Age Group, enabling deep-dive correlation analysis across various demographics.
+
+*Utilized line charts with synchronized timelines and Zoom Sliders for precise observation of shifts between 2021 and 2025.
+
+4.**UX/UI Optimization**
+Configured advanced interactions between visuals, allowing the dashboard to instantly recalculate and update all metrics based on user selection.
+
 
 ## Technologie i narzędzia
 * Power BI: Wizualizacja danych, modelowanie DAX, Power Query.
@@ -18,7 +30,7 @@ This project focuses on the statistical analysis of frostbite cases in Poland. T
 
 
 ## Podgląd projektu
-![image](https://github.com/MagdalenaZda/projekt-odmro-enia/blob/assets/podglad.png)
+![image]()
 
 ##  Data Source
 https://dane.gov.pl/pl/dataset/3819,swiadczenia-z-rozpoznaniem-odmrozenia-i-hipotermii
