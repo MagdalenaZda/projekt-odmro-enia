@@ -34,8 +34,7 @@ This project focuses on the statistical analysis of frostbite cases in Poland be
 
 
 ## Project Preview
-https://github.com/user-attachments/assets/aa2ad703-d0b2-4782-85fe-5232c20b87ef
-
+https://github.com/user-attachments/assets/e03ef3e2-2422-4f87-83cd-0c9c4e85fe13
 
 ##  Data Source
 https://dane.gov.pl/pl/dataset/3819,swiadczenia-z-rozpoznaniem-odmrozenia-i-hipotermii
